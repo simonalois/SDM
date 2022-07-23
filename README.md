@@ -1,6 +1,6 @@
 ## supplemental material to the manuscript:
 
-## Integration of hierarchical levels of extent and scale for tree species distribution models of European beech (*Fagus sylvatica* L.) and silver fir (Abies alba Mill.) in mountain forests
+## Integration of hierarchical levels of extent and scale for tree species distribution models of European beech (*Fagus sylvatica* L.) and silver fir (*Abies alba* Mill.) in mountain forests
 
 authors:   
 Alois SIMON<sup>1,2*</sup>, Klaus KATZENSTEINER<sup>1</sup>, Gudrun WALLENTIN<sup>3</sup>
