@@ -3,7 +3,7 @@
 ## Integration of hierarchical levels of extent and scale for tree species distribution models of European beech (Fagus sylvatica L.) and silver fir (Abies alba Mill.) in mountain forests
 
 authors:   
-Alois SIMON<sup>1,2*</sup>, Klaus KATZENSTEINER<sup>1</sup>, Clemens GEITNER<sup>3</sup>
+Alois SIMON<sup>1,2*</sup>, Klaus KATZENSTEINER<sup>1</sup>, Gudrun WALLENTIN<sup>3</sup>
 
 1 Institute of Forest Ecology, Department of Forest and Soil Sciences, University of Natural Resources and Life Sciences Vienna, 
 Vienna, Austria  
@@ -20,9 +20,10 @@ Keywords:
 species distribution modelling, environmental predictor variables, partitioning effects, soil information, Alpine environment, distribution ranges 
 
 Highlights:
-- different methods for addressing strong imbalance of absent and present are evaluated 
+- species distribution of silver fir and European beech is modelled with deep neural networks
+- methods for addressing strong imbalance of absent and present are evaluated 
+- regional and continental occurrence data and predictor variables are integrated
 - predictive power of climatological, soil and topographical information were disintegrated
-
 
 
 <br>
