@@ -12,3 +12,9 @@ Spatial prediction of the occurrence probability based on the balanced species d
 
 Figure: Aalb_EU_buffered.jpg <br>
 Spatial prediction of the occurrence probability based on the buffered species dataset with continental model for *Abies alba*
+
+Figure: Aalb_TY.jpg <br>
+Spatial prediction of the occurrence probability with regional model for *Abies alba*
+
+Figure: Aalb_TY_pEU.jpg <br>
+Spatial prediction of the occurrence probability with regional model integrating the occurrence probability of the continental model for *Abies alba* 
