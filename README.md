@@ -33,7 +33,7 @@ Mountain forests in the European Alps cover inner Alpine distribution margins of
 </p>
 <br>
 Conceptual Diagram:<br>
-![Conceptual Diagram](https://github.com/simonalois/sdm/blob/main/concept/coceptional_diagramm_hierachical%20modelling.jpg)
+![Conceptual Diagram](https://github.com/simonalois/sdm/blob/main/concept/coceptional_diagramm_hierachical%20modelling.jpg "Conceptual Diagram")
 <br>
 <br>
 
