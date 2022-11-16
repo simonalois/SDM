@@ -20,10 +20,10 @@ Keywords:
 species distribution modelling, environmental predictor variables, partitioning effects, soil information, Alpine environment, mountain forests 
 
 Highlights:
-- species distribution of silver fir and European beech is modelled with deep neural networks
-- methods for addressing strong imbalance of absent and present are evaluated 
-- regional and continental occurrence data and predictor variables are integrated
-- predictive power of climatological, soil and topographical information were disintegrated
+- The species distribution of silver fir and European beech is modelled with deep neural networks.
+- Methods for addressing strong imbalance of absent and present are evaluated. 
+- Regional and continental occurrence data and predictor variables are integrated.
+- The predictive power of climatological, soil and topographical information is borken down. 
 
 <br>
 <br>
