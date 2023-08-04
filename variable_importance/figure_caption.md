@@ -16,8 +16,8 @@ the continental level. subset of n=300 randomly selected from test data
 
 
 **Abrevations for conitental level (EU) figures:**
-asp: aspect transformed [0-2],
-chelsa_bio06: Minimum Temperature of Coldest Mounth [°C], 
+asp: aspect transformed [0-2],  
+chelsa_bio06: Minimum Temperature of Coldest Mounth [°C],   
 chelsa_bio07: Temperature Annual Range [°C] (bio05-bio06), 
 chelsa_bio10: Mean Temperature of Warmest Quarter [°C], 
 bio18: Precipitation of Warmest Quarter [mm], 
