@@ -1,21 +1,21 @@
-**Figure: Aalb_EU_all feature_importance_heatmap.jpg**
+**Figure: Aalb_EU_all feature_importance_heatmap.jpg**  
 Features importance heatmap for all tested features for the buffered model of Abies alba at
 the continental level. subset of n=300 randomly selected from test data 
 
-**Figure: Aalb_EU_CTS feature_importance_heatmap.jpg**
+**Figure: Aalb_EU_CTS feature_importance_heatmap.jpg**  
 Features importance heatmap for selected features for the buffered model of Abies alba at
 the continental level. subset of n=300 randomly selected from test data 
 
-**Figure: Fsyl_EU_all feature_importance_heatmap.jpg**
+**Figure: Fsyl_EU_all feature_importance_heatmap.jpg**  
 Features importance heatmap for all tested features for the buffered model of Fagus sylvatica at
 the continental level. subset of n=300 randomly selected from test data  
 
-**Figure: Fsyl_EU_CTS feature_importance_heatmap.jpg**
+**Figure: Fsyl_EU_CTS feature_importance_heatmap.jpg**  
 Features importance heatmap for selected features for the buffered model of Fagus sylvatica at
 the continental level. subset of n=300 randomly selected from test data  
 
 
-**Abrevations for conitental level (EU) figures:**
+**Abrevations for conitental level (EU) figures:**  
 asp: aspect transformed [0-2],  
 chelsa_bio06: Minimum Temperature of Coldest Mounth [°C],   
 chelsa_bio07: Temperature Annual Range [°C] (bio05-bio06),   
@@ -33,23 +33,23 @@ slope: slope in degree [°],
 twi: Saga topographical wetness index   
 
 
-**Figure: Aalb_TY_all feature_importance_heatmap.jpg**
+**Figure: Aalb_TY_all feature_importance_heatmap.jpg**  
 Features importance heatmap for all tested features for the buffered model of Abies alba at
 the regional level. subset of n=300 randomly selected from test data 
 
-**Figure: Aalb_TY_CTS feature_importance_heatmap.jpg**
+**Figure: Aalb_TY_CTS feature_importance_heatmap.jpg**  
 Features importance heatmap for selected features for the buffered model of Abies alba at
 the regional level. subset of n=300 randomly selected from test data 
 
-**Figure: Fsyl_TY_all feature_importance_heatmap.jpg**
+**Figure: Fsyl_TY_all feature_importance_heatmap.jpg**  
 Features importance heatmap for all tested features for the buffered model of Fagus sylvatica at
 the regional level. subset of n=300 randomly selected from test data  
 
-**Figure: Fsyl_TY_CTS feature_importance_heatmap.jpg**
+**Figure: Fsyl_TY_CTS feature_importance_heatmap.jpg**  
 Features importance heatmap for selected features for the buffered model of Fagus sylvatica at
 the regional level. subset of n=300 randomly selected from test data  
 
-**Abrevations for regional level (TY) figures:**
+**Abrevations for regional level (TY) figures:**  
 asp: aspect transformed [0-2],  
 cloudy: mean annual number of cloudy days [d],  
 cont: Continentality [°C] (mean Temperature July Mounth - mean Temperature January),   
