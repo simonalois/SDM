@@ -1,10 +1,19 @@
-Figure: Aalb_all feature_importance_heatmap.jpg
+Figure: Aalb_EU_all feature_importance_heatmap.jpg
 Features importance heatmap for all tested features for the buffered model of Abies alba at
-the continental level. subset of n=300 
+the continental level. subset of n=300 randomly selected from test data 
 
-Figure: Aalb_CTS feature_importance_heatmap.jpg
+Figure: Aalb_EU_CTS feature_importance_heatmap.jpg
 Features importance heatmap for selected features for the buffered model of Abies alba at
-the continental level. subset of n=300 
+the continental level. subset of n=300 randomly selected from test data 
+
+Figure: Fsyl_EU_all feature_importance_heatmap.jpg
+Features importance heatmap for all tested features for the buffered model of Fagus sylvatica at
+the continental level. subset of n=300 randomly selected from test data  
+
+Figure: Fsyl_EU_CTS feature_importance_heatmap.jpg
+Features importance heatmap for selected features for the buffered model of Fagus sylvatica at
+the continental level. subset of n=300 randomly selected from test data  
+
 
 Abrevations for all figures:
 asp: aspect transformed,
