@@ -1,0 +1,23 @@
+Figure: Aalb_all feature_importance_heatmap.jpg
+Features importance heatmap for all tested features for the buffered model of Abies alba at
+the continental level. subset of n=300 
+
+Figure: Aalb_CTS feature_importance_heatmap.jpg
+Features importance heatmap for selected features for the buffered model of Abies alba at
+the continental level. subset of n=300 
+
+Abrevations for all figures:
+asp: aspect transformed,
+chelsa_bio06: Minimum Temperature of Coldest Mounth, 
+chelsa_bio07: Temperature Annual Range (bio05-bio06), 
+chelsa_bio10: Mean Temperature of Warmest Quarter, bio18: Precipitation of Warmest Quarter, 
+chelsa_gdd5: growing degree days heat sum above 5°C, 
+chelsa_snowD: snow cover days, 
+lucas_caco3_0020:LUCAS Calcium Carbonates [g*kg-1] at depth of 0-20 cm, 
+lucas_cec_0020:LUCAS Cation Exchange Capacity [cmol*kg-1] (at actual pH) at depth of 0-20 cm, 
+lucas_k_0020: LUCAS potassium at depth of 0-20 cm, 
+lucas_n_0020: LUCAS nitrogen [g*kg-1] at depth of 0-20 cm, 
+lucas_ph_cacl_0020: LUCAS pH-value in CaCl at depth of 0-20 cm, 
+pawc_0070: plant available water capacity at the depth 0-70cm
+slope: slope in degree, 
+twi: Saga topographical wetness index, 
