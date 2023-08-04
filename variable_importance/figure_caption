@@ -15,7 +15,7 @@ Features importance heatmap for selected features for the buffered model of Fagu
 the continental level. subset of n=300 randomly selected from test data  
 
 
-**Abrevations for Conitental-level (EU) figures:**
+** Abrevations for Conitental-level (EU) figures: **
 asp: aspect transformed [0-2],
 chelsa_bio06: Minimum Temperature of Coldest Mounth [°C], 
 chelsa_bio07: Temperature Annual Range [°C] (bio05-bio06), 
